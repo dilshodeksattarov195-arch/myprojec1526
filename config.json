@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenuender",
+        "uuid": 6538910,
+        "checksum": "9yj8y9"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
